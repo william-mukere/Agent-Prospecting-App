@@ -2,6 +2,7 @@
 *This App is created using Microsoft Power platform tools*
 
 ## Use Case Description 
+
 *The app is suitable for an insurance company seeking to know the number of potential clients that its agents interact with at a certain point in time.*
 
 ## App functionality ## 
@@ -33,6 +34,8 @@ d.	The app has a feature of status of client, whether a client has decided to pu
 ## What it does
 
 ## How we built it
+
+<img src="Agent Prospecting App Project/agent prospecting app flowchart (1).png" alt="Flowchart" style="height: 300px; width:300px;"/>
 
 ## Challenges we ran into
 
