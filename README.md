@@ -43,6 +43,21 @@ We then connected our sharepoint list to power Bi for management access to data.
 
 <img src="Agent Prospecting App Project/agent prospecting app flowchart (1).png" alt="Flowchart" style="height: 300px; width:300px;"/>
 
+## How the App works
+
+1. <img src="Agent Prospecting App Project/Agent PROSPECTING.png" alt="Landing Page" style="height:400px; width:800px;"/>
+2. <img src="Agent Prospecting App Project/List_Agent_Propecting_App.png" alt="Landing Page" style="height:400px; width:800px;"/>
+3. <img src="Agent Prospecting App Project/Edit_Titlecolum_Name_client.png" alt=" Editing sharepoint" style="height: 400px; width:8000px;"/>
+4. <img src="Agent Prospecting App Project/Integrate_with_PowerApp.png" alt=" Creating Power App" style="height: 400px; width:8000px;"/>
+5. <img src="Agent Prospecting App Project/Editing_Power_app_agent_p_app.png" alt=" Editing Power App" style="height: 400px; width:800px;"/>
+6. <img src="Agent Prospecting App Project/getting_data.png" alt=" Import Data to Power BI" style="height: 400px; width:800px;"/>
+7. <img src="Agent Prospecting App Project/data_navigator.png" alt=" Data Navigator" style="height: 400px; width:800px;"/>
+8. <img src="Agent Prospecting App Project/Importing_data_TO_PowerBI.png" alt=" Import Data to Power BI 2" style="height: 400px; width:800px;"/>
+9. <img src="Agent Prospecting App Project/Loading Data.png" alt=" Loading Data" style="height: 400px; width:800px;"/>
+10. <img src="Agent Prospecting App Project/publishing report.png" alt=" Publishing Report" style="height: 400px; width:800px;"/>
+11. <img src="Agent Prospecting App Project/visualization.png" alt=" Data Visualization" style="height: 400px; width:800px;"/>
+12. <img src="Agent Prospecting App Project/report published.png" alt=" Report Published - Now Available on Power BI services" style="height: 400px; width:800px;"/>
+
 ## Challenges we ran into
 We had challenges of integrating data from sharepoint to Power BI but after reading several documentation published online and watching youtube tutorials we were able to integrate the power Bi,power app and sharepoint list.
 Also due to time we not able to add power automate features,but we have set the same for phase 2 of the project.
