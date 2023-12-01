@@ -43,7 +43,7 @@ We then connected our sharepoint list to power Bi for management access to data.
 
 <img src="Agent Prospecting App Project/agent prospecting app flowchart (1).png" alt="Flowchart" style="height: 300px; width:300px;"/>
 
-## How the App works
+## Building steps
 
 1. <img src="Agent Prospecting App Project/Agent PROSPECTING.png" alt="Landing Page" style="height:400px; width:800px;"/>
 2. <img src="Agent Prospecting App Project/List_Agent_Propecting_App.png" alt="Landing Page" style="height:400px; width:800px;"/>
